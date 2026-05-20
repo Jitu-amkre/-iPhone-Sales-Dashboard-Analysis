@@ -1,3 +1,9 @@
+<img width="1280" height="740" alt="photo_6053110385256108109_y (2)" src="https://github.com/user-attachments/assets/b7eab32c-86f2-4e44-969a-31fc802476ae" />
+
+
+
+
+
 # -iPhone-Sales-Dashboard-Analysis
 This dashboard provides a complete overview of iPhone sales performance for the selected month (January). It highlights key sales metrics, product performance, customer preferences, and regional sales distribution using interactive charts and KPIs.
 🔹 Key Insights
